@@ -8,7 +8,7 @@
 
 | รายการ | รายละเอียด | ลิงก์ดาวน์โหลด (Direct Download) |
 | :--- | :--- | :--- |
-| **Football Live Clean** | แอปพลิเคชันดูบอลสด ไม่มีโฆษณา (Clean Room) | [FootballLiveClean-debug.apk](https://raw.githubusercontent.com/thaidelphi/public_repo/main/FootballLiveClean-debug.apk) |
+| **Football Live Clean** | แอปพลิเคชันดูบอลสด ไม่มีโฆษณา (Clean Room - Signed Release) | [FootballLiveClean.apk](https://raw.githubusercontent.com/thaidelphi/public_repo/main/FootballLiveClean.apk) |
 | **Version File** | ไฟล์ตรวจสอบเวอร์ชันล่าสุดสำหรับแอป | [version.txt](https://raw.githubusercontent.com/thaidelphi/public_repo/main/version.txt) |
 
 ---
